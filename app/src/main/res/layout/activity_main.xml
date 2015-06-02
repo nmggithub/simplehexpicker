@@ -49,7 +49,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="Complimentary Color"
+        android:text="Complementary Color"
         android:id="@+id/invertColorLabel"
         android:layout_below="@+id/invertColorText"
         android:layout_alignLeft="@+id/invertColorText"
